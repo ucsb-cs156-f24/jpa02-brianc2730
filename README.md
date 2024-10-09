@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f24/jpa02-brianc2730
 
-Deployed at: https://jpa02-brianc2730.dokku-11.cs.ucsb.edu/
+Deployed at: https://jpa02-brianc2730.dokku-11.cs.ucsb.edu
 
 # About this repo
 
